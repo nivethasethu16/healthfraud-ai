@@ -1,0 +1,225 @@
+feature,mean_absolute_shap
+numerical__repeat_billing_count,0.120978534
+numerical__length_of_stay,0.093060255
+numerical__claim_amount,0.086466685
+numerical__patient_age,0.076221436
+text__emergency,0.075778686
+text__patient,0.063325755
+numerical__provider_avg_amount,0.0542833
+numerical__provider_claim_count,0.05176938
+text__diagnostics,0.04484177
+text__consultation,0.04212956
+numerical__procedure_complexity,0.0415725
+text__procedure,0.0385246
+categorical__provider_id_HOSP_037,0.033312913
+text__care,0.032993007
+categorical__diagnosis_code_cardiac,0.030242208
+text__surgery,0.027314538
+categorical__provider_id_HOSP_017,0.027099181
+text__consultation procedure,0.021764098
+text__care procedure,0.019482318
+text__evaluation treatment,0.019465553
+categorical__provider_id_HOSP_010,0.01757445
+text__diagnostics procedure,0.017348941
+text__clinical,0.017265564
+text__documented,0.016087398
+categorical__provider_id_HOSP_050,0.015977684
+text__care intensive,0.015787365
+text__assessment,0.014928277
+categorical__diagnosis_code_general,0.011602474
+categorical__provider_id_HOSP_014,0.010660976
+categorical__provider_id_HOSP_004,0.010280345
+categorical__provider_id_HOSP_026,0.0099143805
+text__completed,0.009392402
+text__evaluation,0.008455384
+text__monitoring,0.008351492
+categorical__diagnosis_code_infection,0.00793566
+categorical__provider_id_HOSP_005,0.007891163
+categorical__provider_id_HOSP_013,0.007673239
+text__surgery procedure,0.0076058195
+categorical__provider_id_HOSP_041,0.0075375224
+text__clinical evaluation,0.0073706894
+categorical__provider_id_HOSP_046,0.007349801
+categorical__provider_id_HOSP_018,0.007318629
+categorical__provider_id_HOSP_012,0.006826299
+text__assessment emergency,0.0065939347
+categorical__provider_id_HOSP_047,0.006485366
+text__treatment,0.006132389
+categorical__provider_id_HOSP_027,0.0060920995
+categorical__provider_id_HOSP_021,0.005850835
+categorical__provider_id_HOSP_011,0.0056984057
+categorical__provider_id_HOSP_003,0.0054311594
+text__emergency procedure,0.005212122
+text__intensive,0.005074917
+categorical__diagnosis_code_injury,0.005014943
+categorical__provider_id_HOSP_044,0.0044430033
+categorical__provider_id_HOSP_033,0.004288879
+categorical__provider_id_HOSP_019,0.00428219
+categorical__provider_id_HOSP_043,0.0042186375
+text__evaluation surgery,0.00405327
+text__care monitoring,0.003963326
+categorical__provider_id_HOSP_025,0.0039520254
+text__mild,0.0038708965
+text__acute,0.0038517164
+categorical__provider_id_HOSP_045,0.0038369854
+text__assessment diagnostics,0.003742998
+text__following,0.0037001034
+text__completed consultation,0.0036189226
+categorical__provider_id_HOSP_032,0.0035280285
+text__medical,0.003519958
+categorical__provider_id_HOSP_002,0.0035130677
+categorical__provider_id_HOSP_007,0.0033874589
+text__surgical,0.0033763072
+categorical__diagnosis_code_respiratory,0.0033406538
+text__completed diagnostics,0.003080209
+categorical__provider_id_HOSP_039,0.003009592
+text__received,0.0029670498
+text__clinical investigation,0.0027445464
+categorical__provider_id_HOSP_006,0.0026684364
+categorical__provider_id_HOSP_030,0.0025169647
+text__patient underwent,0.0024802014
+text__performed,0.0024589899
+text__diagnostic,0.0023510708
+text__examination,0.0022442997
+text__symptoms,0.0020310953
+categorical__provider_id_HOSP_031,0.0019961435
+text__critical,0.001960972
+text__routine,0.0019002126
+text__examination completed,0.001796726
+text__critical care,0.0017962684
+categorical__procedure_code_diagnostics,0.0017851915
+categorical__provider_id_HOSP_049,0.0015603689
+categorical__procedure_code_emergency,0.0015394376
+categorical__provider_id_HOSP_040,0.0014440779
+categorical__provider_id_HOSP_023,0.001433566
+categorical__provider_id_HOSP_016,0.0014147284
+text__acute symptoms,0.0014126815
+categorical__provider_id_HOSP_029,0.0013542568
+categorical__provider_id_HOSP_020,0.0013464586
+text__documented surgery,0.0010901862
+categorical__provider_id_HOSP_009,0.0010128012
+categorical__provider_id_HOSP_042,0.0009181657
+text__underwent,0.0009161758
+categorical__provider_id_HOSP_036,0.0008132528
+categorical__procedure_code_intensive_care,0.000764344
+categorical__provider_id_HOSP_022,0.00069096894
+categorical__provider_id_HOSP_015,0.00061777513
+text__attention,0.0005873307
+text__attended routine,0.0005523183
+text__patient required,0.00044756508
+categorical__procedure_code_consultation,0.00025504778
+text__evaluation consultation,0.00024751874
+text__attended,0.0002302919
+text__emergency medical,0.0001550241
+categorical__provider_id_HOSP_038,0.0
+categorical__provider_id_HOSP_028,0.0
+categorical__provider_id_HOSP_035,0.0
+categorical__provider_id_HOSP_024,0.0
+categorical__provider_id_HOSP_008,0.0
+categorical__provider_id_HOSP_001,0.0
+text__care diagnostics,0.0
+text__care emergency,0.0
+text__assessment surgery,0.0
+text__assessment intensive,0.0
+text__attention consultation,0.0
+text__assessment consultation,0.0
+text__attention diagnostics,0.0
+categorical__provider_id_HOSP_034,0.0
+categorical__provider_id_HOSP_048,0.0
+categorical__procedure_code_surgery,0.0
+text__clinical management,0.0
+text__care surgery,0.0
+text__attention intensive,0.0
+text__attention emergency,0.0
+text__attention surgery,0.0
+text__care consultation,0.0
+text__evaluation diagnostics,0.0
+text__emergency assessment,0.0
+text__follow examination,0.0
+text__follow,0.0
+text__imaging,0.0
+text__following clinical,0.0
+text__imaging assessment,0.0
+text__intensive care,0.0
+text__evaluation emergency,0.0
+text__evaluation intensive,0.0
+text__intensive monitoring,0.0
+text__intensive clinical,0.0
+text__documented surgical,0.0
+text__documented intensive,0.0
+text__documented consultation,0.0
+text__documented diagnostics,0.0
+text__documented emergency,0.0
+text__completed emergency,0.0
+text__diagnostic tests,0.0
+text__consultation emergency,0.0
+text__consultation intensive,0.0
+text__consultation surgery,0.0
+text__completed intensive,0.0
+text__completed surgery,0.0
+text__consultation consultation,0.0
+text__consultation diagnostics,0.0
+text__medical consultation,0.0
+text__medical attention,0.0
+text__management intensive,0.0
+text__management surgery,0.0
+text__management emergency,0.0
+text__management diagnostics,0.0
+text__management,0.0
+text__management consultation,0.0
+text__investigation completed,0.0
+text__investigation,0.0
+text__laboratory imaging,0.0
+text__laboratory,0.0
+text__intervention performed,0.0
+text__intervention,0.0
+text__monitoring critical,0.0
+text__monitoring documented,0.0
+text__performed evaluation,0.0
+text__performed following,0.0
+text__post operative,0.0
+text__post,0.0
+text__presented,0.0
+text__presented acute,0.0
+text__procedure consultation,0.0
+text__procedure diagnostics,0.0
+text__operative monitoring,0.0
+text__operative,0.0
+text__monitoring treatment,0.0
+text__patient attended,0.0
+text__patient reported,0.0
+text__patient received,0.0
+text__patient presented,0.0
+text__mild symptoms,0.0
+text__provided intensive,0.0
+text__provided emergency,0.0
+text__provided diagnostics,0.0
+text__provided consultation,0.0
+text__provided,0.0
+text__procedure surgery,0.0
+text__procedure intensive,0.0
+text__procedure emergency,0.0
+text__required emergency,0.0
+text__required,0.0
+text__reported mild,0.0
+text__required intensive,0.0
+text__reported,0.0
+text__provided surgery,0.0
+text__received assessment,0.0
+text__received intensive,0.0
+text__routine follow,0.0
+text__routine medical,0.0
+text__requiring,0.0
+text__requiring emergency,0.0
+text__symptoms received,0.0
+text__symptoms requiring,0.0
+text__surgical intervention,0.0
+text__surgical procedure,0.0
+text__tests performed,0.0
+text__tests,0.0
+text__treatment documented,0.0
+text__treatment provided,0.0
+text__underwent documented,0.0
+text__underwent laboratory,0.0
+text__urgent,0.0
+text__urgent clinical,0.0
