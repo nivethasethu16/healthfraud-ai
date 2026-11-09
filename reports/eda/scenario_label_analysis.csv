@@ -1,0 +1,7 @@
+scenario_type,0,1,All
+documentation_mismatch,0,330,330
+legitimate_high_cost,451,0,451
+normal,3564,0,3564
+repeat_billing,0,296,296
+unusual_billing,0,359,359
+All,4015,985,5000

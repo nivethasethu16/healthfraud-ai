@@ -1,0 +1,16 @@
+,missing_count,missing_percentage
+claim_id,0,0.0
+provider_id,0,0.0
+patient_age,0,0.0
+procedure_code,0,0.0
+diagnosis_code,0,0.0
+claim_amount,0,0.0
+procedure_complexity,0,0.0
+length_of_stay,0,0.0
+provider_claim_count,0,0.0
+provider_avg_amount,0,0.0
+repeat_billing_count,0,0.0
+clinical_note,0,0.0
+billed_description,0,0.0
+scenario_type,0,0.0
+review_label,0,0.0

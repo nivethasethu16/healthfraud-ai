@@ -1,0 +1,43 @@
+HEALTHCARE CLAIMS EDA SUMMARY
+========================================
+Total records: 5000
+Total columns: 17
+Duplicate rows: 0
+Duplicate claim IDs: 0
+
+Target distribution:
+review_label
+0    4015
+1     985
+
+Missing values:
+                      missing_count  missing_percentage
+claim_id                          0                 0.0
+provider_id                       0                 0.0
+patient_age                       0                 0.0
+procedure_code                    0                 0.0
+diagnosis_code                    0                 0.0
+claim_amount                      0                 0.0
+procedure_complexity              0                 0.0
+length_of_stay                    0                 0.0
+provider_claim_count              0                 0.0
+provider_avg_amount               0                 0.0
+repeat_billing_count              0                 0.0
+clinical_note                     0                 0.0
+billed_description                0                 0.0
+scenario_type                     0                 0.0
+review_label                      0                 0.0
+
+Provider review analysis:
+             total_claims  review_claims  review_rate
+provider_id                                          
+HOSP_005              106             32        30.19
+HOSP_035               85             25        29.41
+HOSP_038              122             31        25.41
+HOSP_023              112             28        25.00
+HOSP_042              106             26        24.53
+HOSP_017              103             25        24.27
+HOSP_007              102             24        23.53
+HOSP_046              100             23        23.00
+HOSP_027              109             25        22.94
+HOSP_021              111             25        22.52
